@@ -1,0 +1,11 @@
+.tests_at-keyframes_001_box {
+	animation: tests_at-keyframes_001_BOX;
+	animation-duration: 0s;
+	animation-fill-mode: both;
+}
+
+@keyframes tests_at-keyframes_001_BOX {
+	0%, 100% {
+		background-color: red;
+	}
+}

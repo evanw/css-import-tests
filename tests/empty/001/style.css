@@ -1,0 +1,5 @@
+@import url("./empty.css");
+
+.tests_empty_001_box {
+	background-color: green;
+}

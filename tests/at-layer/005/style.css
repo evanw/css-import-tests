@@ -1,0 +1,13 @@
+@import url("a.css") layer(tests_at-layer_005_a) (min-width: 1px);
+
+@layer tests_at-layer_005_a.tests_at-layer_005_c {
+	.tests_at-layer_005_box {
+		background-color: red;
+	}
+}
+
+@layer tests_at-layer_005_a.tests_at-layer_005_b {
+	.tests_at-layer_005_box {
+		background-color: green;
+	}
+}

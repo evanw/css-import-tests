@@ -1,0 +1,14 @@
+@import url("a.css") layer(tests_at-supports_005_alpha) supports(display: block);
+@import url("b.css") layer(tests_at-supports_005_beta) supports(display: block);
+
+@layer tests_at-supports_005_beta {
+	.tests_at-supports_005_box {
+		background-color: green;
+	}
+}
+
+@layer tests_at-supports_005_alpha {
+	.tests_at-supports_005_box {
+		background-color: red;
+	}
+}

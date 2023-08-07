@@ -1,0 +1,94 @@
+/* Basic */
+@import "tests/001/default/style.css";
+@import "tests/001/absolute-url/style.css";
+@import "tests/001/relative-url/style.css";
+
+/* @charset */
+@import "tests/at-charset/001/style.css";
+
+/* @keyframes */
+@import "tests/at-keyframes/001/style.css";
+
+/* @layer */
+@import "tests/at-layer/001/style.css";
+@import "tests/at-layer/002/style.css";
+@import "tests/at-layer/003/style.css";
+@import "tests/at-layer/004/style.css";
+@import "tests/at-layer/005/style.css";
+@import "tests/at-layer/006/style.css";
+@import "tests/at-layer/007/style.css";
+@import "tests/at-layer/008/style.css";
+
+/* @media */
+@import "tests/at-media/001/default/style.css";
+@import "tests/at-media/001/absolute-url/style.css";
+@import "tests/at-media/002/style.css";
+@import "tests/at-media/003/style.css";
+@import "tests/at-media/004/style.css";
+@import "tests/at-media/005/style.css";
+@import "tests/at-media/006/style.css";
+@import "tests/at-media/007/style.css";
+@import "tests/at-media/008/style.css";
+@import "tests/at-media/009/style.css";
+@import "tests/at-media/010/style.css";
+@import "tests/at-media/011/style.css";
+
+/* @supports */
+@import "tests/at-supports/001/style.css";
+@import "tests/at-supports/002/style.css";
+@import "tests/at-supports/003/style.css";
+@import "tests/at-supports/004/style.css";
+@import "tests/at-supports/005/style.css";
+
+/* Cycles */
+@import "tests/cycles/001/style.css";
+@import "tests/cycles/002/style.css";
+@import "tests/cycles/003/style.css";
+@import "tests/cycles/004/style.css";
+@import "tests/cycles/005/style.css";
+@import "tests/cycles/006/style.css";
+@import "tests/cycles/007/style.css";
+@import "tests/cycles/008/style.css";
+
+/* Data URLs */
+@import "tests/data-urls/001/style.css";
+@import "tests/data-urls/002/style.css";
+@import "tests/data-urls/003/style.css";
+@import "tests/data-urls/004/style.css";
+@import "tests/data-urls/005/style.css";
+@import "tests/data-urls/006/style.css";
+
+/* Duplicates */
+@import "tests/duplicates/001/style.css";
+@import "tests/duplicates/002/style.css";
+
+/* Empty */
+@import "tests/empty/001/style.css";
+
+/* Relative paths */
+@import "tests/relative-paths/001/style.css";
+@import "tests/relative-paths/002/style.css";
+
+/* Subresource */
+@import "tests/subresource/001/style.css";
+@import "tests/subresource/002/style.css";
+@import "tests/subresource/003/style.css";
+@import "tests/subresource/004/style.css";
+@import "tests/subresource/005/style.css";
+@import "tests/subresource/006/style.css";
+@import "tests/subresource/007/style.css";
+
+/* URL format */
+@import "tests/url-format/001/default/style.css";
+@import "tests/url-format/001/absolute-url/style.css";
+@import "tests/url-format/001/relative-url/style.css";
+@import "tests/url-format/002/default/style.css";
+@import "tests/url-format/002/absolute-url/style.css";
+@import "tests/url-format/002/relative-url/style.css";
+@import "tests/url-format/003/default/style.css";
+@import "tests/url-format/003/absolute-url/style.css";
+@import "tests/url-format/003/relative-url/style.css";
+
+/* URL fragments */
+@import "tests/url-fragments/001/style.css";
+@import "tests/url-fragments/002/style.css";

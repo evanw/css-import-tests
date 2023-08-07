@@ -1,0 +1,15 @@
+@layer tests_at-layer_007_foo {}
+
+@layer tests_at-layer_007_bar {}
+
+@layer tests_at-layer_007_bar {
+	.tests_at-layer_007_box {
+		background-color: green;
+	}
+}
+
+@layer tests_at-layer_007_foo {
+	.tests_at-layer_007_box {
+		background-color: red;
+	}
+}

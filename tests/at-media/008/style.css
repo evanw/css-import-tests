@@ -1,0 +1,14 @@
+@import url("a.css") layer(tests_at-media_008_alpha) all;
+@import url("b.css") layer(tests_at-media_008_beta) all;
+
+@layer tests_at-media_008_beta {
+	.tests_at-media_008_box {
+		background-color: green;
+	}
+}
+
+@layer tests_at-media_008_alpha {
+	.tests_at-media_008_box {
+		background-color: red;
+	}
+}

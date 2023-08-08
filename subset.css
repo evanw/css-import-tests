@@ -20,6 +20,7 @@
 @import "tests/at-layer/006/style.css";
 @import "tests/at-layer/007/style.css";
 @import "tests/at-layer/008/style.css";
+@import "tests/at-layer/009/style.css";
 
 /* @media */
 @import "tests/at-media/001/default/style.css";
